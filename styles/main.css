@@ -1,6 +1,6 @@
 :root {
 	--background-colour: light-dark(rgb(237, 237, 237), rgb(28, 27, 34));
-	--secondary-colour: light-dark(rgb(58, 109, 151), rgb(166, 206, 240));
+	--blue-colour: light-dark(rgb(58, 109, 151), rgb(166, 206, 240));
 	color-scheme: light dark;
 }
 
@@ -37,12 +37,12 @@ textarea {
 }
 
 input[type="radio"] {
-	accent-color: var(--secondary-colour);
+	accent-color: var(--blue-colour);
 }
 
 a {
 	text-decoration: none;
-	color: var(--secondary-colour);
+	color: var(--blue-colour);
 	display: inline-block;
 }
 
