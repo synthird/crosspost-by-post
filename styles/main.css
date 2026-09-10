@@ -63,14 +63,6 @@ img:hover {
 	line-height: 2.45;
 }
 
-footer {
-	background-color: var(--background-colour);
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	text-align: center;
-}
-
 @media (scripting: none) {
 	div:has(textarea), [id="post-buttons"] {
 		display: none;
