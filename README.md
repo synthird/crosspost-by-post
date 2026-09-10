@@ -1,6 +1,6 @@
 # Crosspost by post
 
-Post to one social media platform at a time.
+Post to one social media platform at a time without needing to create an account to do so.
 
 ## How it works
 
