@@ -10,7 +10,7 @@ The said links are the same ones used in the "share to/on social media" buttons 
 
 ## Giving credit
 
-- [Tootpick](https://github.com/Juerd/tootpick) for the posting to Mastodon functionality.
+- [Tootpick](https://github.com/StrangeGirlMurph/tootpick) for the posting to Mastodon functionality.
 - [Shields.io](https://shields.io) for button creation.
 
 ## License
