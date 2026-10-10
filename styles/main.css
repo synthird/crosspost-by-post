@@ -60,7 +60,7 @@ img:hover {
 
 .emoji-hotkeys li {
 	list-style-type: none;
-	line-height: 2.45;
+	line-height: 2;
 }
 
 @media (scripting: none) {
