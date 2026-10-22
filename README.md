@@ -15,6 +15,4 @@ The said links are the same ones used in the "share to/on social media" buttons 
 
 ## License
 
-This repository contains the Mozilla Public License version 2.0. You must give credit if you fork the repository or copy the source code. Even if you copy a small piece of the code.
-
-You also must open source any changes you make.
+This repository contains the Mozilla Public License version 2.0. You must give credit if you fork the repository or copy the source code. Even if you copy a small piece of the code. You also must open source any changes you make.
