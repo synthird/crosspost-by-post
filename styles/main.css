@@ -16,7 +16,7 @@ body, textarea {
 	font-size: large;
 }
 
-img, span {
+img, kbd {
 	border-radius: 0.2em;
 }
 
@@ -25,7 +25,7 @@ body {
 	font-family: monospace;
 }
 
-span {
+kbd {
 	background-color: light-dark(rgb(206, 206, 206), rgb(73, 73, 73));
 	padding: 0.2%;
 }
